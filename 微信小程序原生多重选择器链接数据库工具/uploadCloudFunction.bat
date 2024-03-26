@@ -1,0 +1,1 @@
+"D:\WeChatDevTools\微信web开发者工具\cli.bat" cloud functions deploy --e graduation-project-8dwqr95e6bf25 --n quickstartFunctions --r --project "D:\微信小程序原生多重选择器链接数据库工具" --report_first --report
